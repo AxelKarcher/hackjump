@@ -34,9 +34,12 @@ OPTIONS
 - Basic Animations (movement, jumping...)
 - Advanced Animations (sprites, ...)
 - UX: settings, menus(...)
-## Authors
+## Original authors
   - [Alexandre Chetrit](https://github.com/chetrit)
   - [Axel Karcher](https://github.com/AxelKarcher)
   - [Lucas Bernard](https://github.com/neverloopp)
   - [Maxime Sarres](https://github.com/XriM)
   - [Sean Morton](https://github.com/Seanmrt)
+## They improved the project after
+  - [Alexandre Chetrit](https://github.com/chetrit)
+  - [Axel Karcher](https://github.com/AxelKarcher)
