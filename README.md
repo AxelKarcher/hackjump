@@ -40,6 +40,6 @@ OPTIONS
   - [Lucas Bernard](https://github.com/neverloopp)
   - [Maxime Sarres](https://github.com/XriM)
   - [Sean Morton](https://github.com/Seanmrt)
-## They improved the project after
+## They improved the project afterwards
   - [Alexandre Chetrit](https://github.com/chetrit)
   - [Axel Karcher](https://github.com/AxelKarcher)
